@@ -477,6 +477,10 @@ small,
   font-weight: 400;
 }
 
+.gfont{
+  font-family: 'Montserrat', sans-serif;
+}
+
 mark,
 .mark {
   padding: 0.2em;
