@@ -11746,6 +11746,38 @@ textarea.form-control {
   }
 }
 
+/* EMBS Team */
+.EMBScore{
+  margin-top: 10px;
+}
+.coreTeam{
+  background-color:#000;
+  color:whitesmoke;
+}
+
+
+.teamHeading
+{
+  text-align: center;
+  font-weight: 800;
+font-family: 'Major Mono Display', monospace;
+  font-size: xx-large;
+}
+
+.core2{
+  display: flex;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+.name{
+  padding: 1em;
+  font-family: 'Major Mono Display', monospace;
+  font-size: medium;
+  font-weight: 400;
+}
+
 /*Profile card 4*/
 .profile-card-4 .card-img-block {
   float: left;
